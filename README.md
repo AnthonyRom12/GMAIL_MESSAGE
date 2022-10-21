@@ -1,13 +1,12 @@
 # GMAIL_MESSAGE
-<h1>Sending email by Pythom smtplib</h1>
+<h2>Sending email by Pythom smtplib</h2>
 
 **Before start, open your Google Account**
 
-
-  <p1>After you open Google Account, tap on Security</p1>
-  <p2>Select Signing in to Google</p2>
-  <p3>Then tap on 2-Step Verification</p3>
-  <p4>Switch on 2-Step Verification</p4>
+<p1>After you open Google Account, tap on Security</p1>
+<p2>Select Signing in to Google</p2>
+<p3>Then tap on 2-Step Verification</p3>
+<p4>Switch on 2-Step Verification</p4>
 
 
 __After 2-Step Verification is ON, Folow to the link below__
