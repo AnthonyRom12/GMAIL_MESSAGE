@@ -3,10 +3,10 @@
 
 **Before start, open your Google Account**
 
-<p>After you open Google Account, tap on Security</p>
-<p>Select Signing in to Google</p>
-<p>Then tap on 2-Step Verification</p>
-<p>Switch on 2-Step Verification</p>
+<p>1. After you open Google Account, tap on Security</p>
+<p>2. Select Signing in to Google</p>
+<p>3. Then tap on 2-Step Verification</p>
+<p>4. Switch on 2-Step Verification</p>
 
 
 __After 2-Step Verification is ON, Folow to the link below__
